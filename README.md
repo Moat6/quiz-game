@@ -1,4 +1,5 @@
 # quiz-game
+Generates Random Questions
 Based on OPEN TRIVIA DB
 
 
